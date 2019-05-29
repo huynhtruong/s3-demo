@@ -1,4 +1,4 @@
-package com.helixz.s3.demo.config;
+package com.homejiniy.media.config;
 
 import com.amazonaws.auth.AWSCredentialsProvider;
 import com.amazonaws.services.s3.AmazonS3;
@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author Chamith
+ * @author Steven
  */
 @Slf4j
 @Configuration

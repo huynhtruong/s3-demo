@@ -1,11 +1,11 @@
-package com.helixz.s3.demo.config;
+package com.homejiniy.media.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author Chamith
+ * @author Steven
  */
 @Data
 @ConfigurationProperties("app")

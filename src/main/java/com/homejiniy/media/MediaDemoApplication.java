@@ -1,13 +1,13 @@
-package com.helixz.s3.demo;
+package com.homejiniy.media;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class S3DemoApplication {
+public class MediaDemoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(S3DemoApplication.class, args);
+        SpringApplication.run(MediaDemoApplication.class, args);
     }
 
 }
